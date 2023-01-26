@@ -136,7 +136,7 @@ public class Typing extends JFrame {
 						lbltimer.setText(String.valueOf(key));
 						if (t.isRunning())
 							k++;
-						if (k == 30) {
+						if (k == 60) {
 							if (typed == 0)
 								typed++;
 							t.stop();
