@@ -1,5 +1,5 @@
 # TypingTest
-This is a Java Swing GUI program that takes about 69K words from a word document and then inputs them into an arraylist 
+This is a Java Swing GUI program that takes about 69K words from a word document and then inputs them into an arraylist.
 Random Words are chosen from arraylist which are displayed on the screen
 
 After you press start, the typing test starts right away with the timer on the right
