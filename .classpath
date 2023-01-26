@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/Java Look and Feel Jars/flatlaf-3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/JDK Database Jars/commons-lang-2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/JDK Database Jars/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/JDK Database Jars/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/JDK Database Jars/jackcess-2.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/JDK Database Jars/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/JDK Database Jars/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="C:/Compilers-and-Sdk/JDK Database Jars/ucanaccess-2.0.8.jar"/>
+	<classpathentry kind="output" path=""/>
+</classpath>
