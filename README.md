@@ -10,4 +10,4 @@ and for every wrong key type, the word will be highlighted red
 
 no Backspace is allowed and after 60 seconds, it will calculate your accuracy, and based on that your words per minute given that average word is of 5 characters
 
-This is a test readme
+this is a java project
